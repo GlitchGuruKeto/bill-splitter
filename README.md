@@ -20,3 +20,39 @@ A simple 🐍 Python project to fairly split a restaurant bill among friends —
 ## 💡 Example
 
 **Input:**
+Number of friends: 3
+Names: Alice, Bob, Charlie
+Total bill: 90
+Use 'Who is lucky?': Yes
+
+
+**Output:**
+
+
+Bob is the lucky one!
+{'Alice': 45.0, 'Bob': 0, 'Charlie': 45.0}
+
+
+
+---
+
+## 🛠 Technologies Used
+
+- 🐍 Python 3  
+- 📦 Dictionaries  
+- 🎲 `random` module  
+- 🧠 Conditional logic  
+- ⌨️ User input handling  
+
+
+
+
+
+
+
+
+
+
+
+
+
